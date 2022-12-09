@@ -8,7 +8,7 @@
  
 - 📧 regianecarla.rlima@gmail.com
 - 👩🏻‍💻 Atualmente trabalho com suporte ao usuário, montagem e manutenção de computadores.
-- 📚 Estou cursando graduação em Análise e deenvolvimento de sistemas.
+- 📚 Estou cursando graduação em Análise e desenvolvimento de sistemas.
 - 🐱🐶 apaixonada por pets.
 - 📈 Em busca de cada vez mais conhecimento.
 
