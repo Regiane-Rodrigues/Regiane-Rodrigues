@@ -7,7 +7,7 @@
  [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100011339416485&mibextid=ZbWKwL)
  
 - 📧 regianecarla.rlima@gmail.com
-- 👩🏻‍💻 Atualmente trabalho com suporte ao usuário, montagem e manutenção de computadores e redes.
+- 👩🏻‍💻 Atualmente trabalho com suporte ao cliente, montagem e manutenção de computadores e redes.
 - 📚 Estou cursando graduação em Análise e desenvolvimento de sistemas.
 - 🐱🐶 apaixonada por pets.
 - 📈 Em busca de cada vez mais conhecimento.
