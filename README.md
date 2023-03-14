@@ -1,5 +1,5 @@
 - 👋 Oie, sou a Regiane!
-- 💻 Analista de suporte infraestrutura - 🏠 Cascavel, Paraná - 🌎 Brazil
+- 💻 Analista de suporte infraestrutura -  📖 Unipar - 🏠 Cascavel, Paraná - 🌎 Brazil
 
  Encontre-me aqui:
  
